@@ -97,8 +97,6 @@ ul, ol {
 
 .address{
     font-style: normal;
-    display: flex;
-    gap: 40px;
 }
 
 .address-list {
