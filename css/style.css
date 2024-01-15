@@ -251,7 +251,6 @@ margin: 0 auto;
     width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
-    padding-bottom: 120px;
     background-color: #F4F4FD;
 
 }
@@ -286,12 +285,12 @@ margin: 0 auto;
 
 .team-item { 
     width: calc((100% - 72px) / 4);
-    border-radius: 0px 0px 4px 4px;
-    background-color: #FFFFFF}
+}
 
 .team-img {
-    padding-bottom: 32px;
     display: block;
+    max-width: 100%;
+    height: auto;
 }
 .titel-team{
     padding: 32px 0;
