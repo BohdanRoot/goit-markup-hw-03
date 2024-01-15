@@ -219,14 +219,13 @@ margin: 0 auto;
     padding-right: 15px;
     padding-left: 15px;
     gap: 24px;
-    width: calc((100% - 72px) / 4);
     padding-bottom: 240px;
 }
 
 
 .strategy-item {
-
-    }
+    width: calc((100% - 72px) / 4);
+}
 
 .strategy-titel {
     color: #2E2F42;
