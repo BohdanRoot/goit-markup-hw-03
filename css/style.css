@@ -27,7 +27,7 @@ ul, ol {
     border-bottom: 1px solid #e7e9fc
     padding-top: 24px;
     padding-bottom: 24px;
-    border-bottom: 1px solid #e7e9fc
+    
 }
 
 .header-container{
@@ -35,7 +35,6 @@ ul, ol {
     padding-left: 15px;
     padding-right: 15px;
     margin: 0 auto;
-    
     display: flex;
     gap: 332px;
     align-items: center;
@@ -223,6 +222,7 @@ margin: 0 auto;
 
 
 .strategy-item {
+
     }
 
 .strategy-titel {
@@ -277,7 +277,7 @@ margin: 0 auto;
     padding-right: 15px;
     padding-left: 15px;
     gap: 24px;
-    width: calc((100% - 3 * 24px) / 4);
+    width: calc((100% - 72px) / 4);
     border-radius: 0px 0px 4px 4px;
 }
 
