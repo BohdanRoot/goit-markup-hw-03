@@ -215,8 +215,7 @@ margin: 0 auto;
 
 .strategy-list {
     display: flex;
-    padding-right: 15px;
-    padding-left: 15px;
+   
     gap: 24px;
     padding-bottom: 240px;
     margin: 0;
