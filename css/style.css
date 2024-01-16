@@ -272,8 +272,7 @@ margin: 0 auto;
 }
 
 .container-list{
-    max-width: 264px;
-    flex-basis: calc((100% - 3 * 24) / 4);
+   
     padding: 32px 0;
 }
 
@@ -288,7 +287,8 @@ margin: 0 auto;
 
 .team-item { 
     border-radius: 0px 0px 4px 4px;
-    width: calc((100% - 72px) / 4);
+    max-width: 264px;
+        flex-basis: calc((100% - 3 * 24) / 4);
 }
 
 .team-img {
