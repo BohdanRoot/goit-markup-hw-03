@@ -400,7 +400,10 @@ margin: 0 auto;
 }
 
 .container-footer{
-    padding: 101px 1240px 189px 156px;
+    width: 100%;
+        max-width: 960px;
+        margin: 0 auto;
+    
 }
 
 .footer-list {}
