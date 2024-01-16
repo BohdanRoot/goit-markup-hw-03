@@ -247,7 +247,7 @@ margin: 0 auto;
 
 /*------------------------------*/
 /*------------MAIN-TEAM--------*/
-.team-ccontainer{
+.team-container{
     width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
@@ -287,8 +287,8 @@ margin: 0 auto;
 
 .team-item { 
     border-radius: 0px 0px 4px 4px;
-    max-width: 264px;
-        flex-basis: calc((100% - 3 * 24) / 4);
+    flex-basis: calc((100% - 3 * 24) / 4);
+    
 }
 
 .team-img {
